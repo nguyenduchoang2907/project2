@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.form-student,.list-student{
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    margin: 25px;
+    padding:25px;
+    float: left;
+}
+.form-student h3{
+    font-family: Times New Roman;
+    text-transform: capitalize;
+    padding: 0px;
+    margin-top:0px;
+}
+.form-student label{
+   width: 150px;
+   float: left;
+}
+.form-student input{
+    margin-bottom:10px ;
+    width:200px;
+    padding:5px;
+}
+.list-student{
+    width: 650px;
+}
